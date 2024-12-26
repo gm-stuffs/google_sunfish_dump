@@ -1,0 +1,14 @@
+# sunfish-user 13 TQ3A.230805.001.S1 10786265 release-keys
+- manufacturer: google
+- platform: sm6150
+- codename: sunfish
+- flavor: sunfish-user
+- release: 13
+- id: TQ3A.230805.001.S1
+- incremental: 10786265
+- tags: release-keys
+- fingerprint: google/sunfish/sunfish:13/TQ3A.230805.001.S1/10786265:user/release-keys
+- is_ab: true
+- brand: google
+- branch: sunfish-user-13-TQ3A.230805.001.S1-10786265-release-keys
+- repo: google_sunfish_dump

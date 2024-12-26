@@ -1,0 +1,6 @@
+Error: This kernel may require LZ4 decompression.
+       But "lz4" python package was not found.
+       Example installation command: "sudo pip3 install lz4"
+[+] Kernel successfully decompressed in-memory (the offsets that follow will be given relative to the decompressed binary)
+[+] Version string: Linux version 4.14.302-g6ff6ddc33f7d-ab10092322 (android-build@abfarm-2004-4012) (A!
+[!] The architecture of your kernel could not be guessed successfully. Please specify the --bit-size argument manually (use --help for its precise specification).
